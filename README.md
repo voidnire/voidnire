@@ -28,5 +28,9 @@ Here are some ideas to get you started:
  ## 💭 socials:
  
   ₍ᐢ‥ᐢ₎ instagram: @erinnuwu 
+  
+  
   ₍ᐢ‥ᐢ₎ spotify: erin☄️
+  
+  
   ₍ᐢ‥ᐢ₎ email: nirerin15@gmail.com
