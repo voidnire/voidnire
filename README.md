@@ -1,4 +1,4 @@
-### Hi there 👋
+### ꒰ hello world 🍄 ꒱
 
 <!--
 **voidnire/voidnire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ᶻz﹕erin﹑💭 . - ˃˂ 🩹 ⊹ he / him
+ 
+⊹ ⋆ﾟ꒰ఎ ♡ ໒꒱ ⋆ﾟ⊹  
+
+ studying + working with C# ⊹ㅤ. ⋆ ˖ ˙ ᵎᵎ𓂃🎨ϟ ࣪ ˖¡ . ⊹ 
+ ─ planning to make APIs using Blazor ¡ . ⊹
+ ─ interested in studying python ¡ . ⊹
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+
+ ## 💭 socials:
+ 
+  ₍ᐢ‥ᐢ₎ instagram: @erinnuwu 
+  ₍ᐢ‥ᐢ₎ spotify: erin☄️
+  ₍ᐢ‥ᐢ₎ email: nirerin15@gmail.com
