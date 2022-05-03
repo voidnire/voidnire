@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ᶻz﹕erin﹑💭 . - ˃˂ 🩹 ⊹ he / him - eng & pt-br
+ ᶻz﹕erin﹑💭 . - ˃˂ 🩹 ⊹ 18y - eng & pt-br
  
 ⊹ ⋆ﾟ꒰ఎ ♡ ໒꒱ ⋆ﾟ⊹  
 
