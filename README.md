@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
  ## 💭 socials:
  
-  ₍ᐢ‥ᐢ₎ instagram: @erinnuwu 
+  ₍ᐢ‥ᐢ₎ instagram: @eriredpill
   
   
   ₍ᐢ‥ᐢ₎ spotify: erin☄️
