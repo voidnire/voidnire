@@ -25,9 +25,12 @@ Erin Dante Vasconcelos ⊹ 18y
 <div  align="center">🎮 My hobbies include drawing, watching movies and gaming.</div>
 
 </br>
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=dracula)](https://github.com/voidnire/github-readme-stats)
 
-[![Erin Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=dracula)](https://github.com/voidnire/github-readme-stats)
+[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=dracula)](https://github.com/voidnire/github-readme-stats)
 
                                                             
 
