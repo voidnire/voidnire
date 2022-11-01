@@ -34,13 +34,13 @@ Erin Dante Vasconcelos ⊹ 18y
 
                                                             
 
- <h3> Email: erindante1512@gmail.com </h3>
+ <h3>💬 Contact Me: erindante1512@gmail.com </h3>
 
 
 
 
-<div id="header" align="center">
+<div align="center">
  <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=blue" alt=""/>
 
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.pinimg.com/originals/68/dc/2e/68dc2e604b08ef695cbec6e93d41ba53.gif)" width="200"/>
+  <img src="https://i.pinimg.com/originals/68/dc/2e/68dc2e604b08ef695cbec6e93d41ba53.gif" width="200"/>
 </div>
