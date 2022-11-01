@@ -19,11 +19,16 @@ Erin Dante Vasconcelos ⊹ 18y
 
 <b> ─ C# ⊹ Python ⊹ HTML & CSS ⊹ Javascript </b>
 
+<h2>About Me 🚀</h3>
+⚡ I aspire to be a Front-end/Full-Stack developer.
+👨‍💻 Interested in studying Information Security and being a pentester.
+🎮 My hobbies include drawing, watching movies and gaming.
 
+<div style="display:flex; flex-direction:row; align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=dracula)](https://github.com/voidnire/github-readme-stats)
 
 [![Erin Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=dracula)](https://github.com/voidnire/github-readme-stats)
-
+</div>
 
  <h3> Email: erindante1512@gmail.com </h3>
 
