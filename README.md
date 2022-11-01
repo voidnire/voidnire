@@ -27,10 +27,15 @@ Erin Dante Vasconcelos ⊹ 18y
 </br>
 
 
-
+<div align="center">
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=dracula)](https://github.com/voidnire/github-readme-stats)
 
 [![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=dracula)](https://github.com/voidnire/github-readme-stats)
+  
+  
+</div>
 
                                                             
 
