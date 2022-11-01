@@ -25,7 +25,7 @@ Erin Dante Vasconcelos ⊹ 18y
 [![Erin Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=dracula)](https://github.com/voidnire/github-readme-stats)
 
 
- ## Email: erindante1512@gmail.com
+ <h3> Email: erindante1512@gmail.com </h3>
 
 
 
