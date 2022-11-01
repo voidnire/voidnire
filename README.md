@@ -20,7 +20,7 @@ Erin Dante Vasconcelos ⊹ 18y
 <b> ─ C# ⊹ Python ⊹ HTML & CSS ⊹ Javascript </b>
 
 <h2>About Me 🚀</h3>
-<div style="display:flex; flex-direction:column;" align="center">
+<div style="display:flex; flex-direction:row;" align="center">
 ⚡ I aspire to be a Front-end/Full-Stack developer.
 👨‍💻 Interested in studying Information Security and being a pentester.
 🎮 My hobbies include drawing, watching movies and gaming.
