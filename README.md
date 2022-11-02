@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Erin Dante Vasconcelos ⊹ 18y
+<h2>Erin Dante Vasconcelos ⊹ 18y</h2>
 
-<b> ─ C# ⊹ Python ⊹ HTML & CSS ⊹ Javascript </b>
+<h3><b> ─ C# ⊹ Python ⊹ HTML & CSS ⊹ Javascript </b></h3>
 
 <h2>About Me 🚀</h2>
 <div  align="center"><h3>⚡ I aspire to be a Front-end/Full-Stack developer.</h3></div>
