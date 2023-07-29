@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Erin Dante Vasconcelos ⊹ 18y</h2>
+<h2>Erin Dante Vasconcelos ⊹ 19y</h2>
 
 <h3><b> ─ C# ⊹ Python ⊹ HTML & CSS ⊹ Javascript </b></h3>
 
