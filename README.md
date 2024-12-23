@@ -26,10 +26,10 @@ const aboutMe = {
 <br></br>
 
 <div>
-   <img align='right' src="https://i.pinimg.com/originals/e5/bf/83/e5bf8315d901f388203f479ef160cc5d.gif" width="400" alt="riddlers"/>
    <div>
-       <img style='margin-left:3em' src="https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green&show_icons=true" alt="Erin's GitHub stats">
+       <img align='center' src="https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green&show_icons=true" alt="Erin's GitHub stats">
    </div>
+   <img align='center' src="https://i.pinimg.com/originals/e5/bf/83/e5bf8315d901f388203f479ef160cc5d.gif" width="400" alt="riddlers"/>
 </div>
 
 
