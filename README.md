@@ -27,10 +27,7 @@ const aboutMe = {
 
 
 <div>
-   <div align='left'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=shadow_green&show_icons=true" alt="Top Langs">
-  </div>
-  <div align='right'>
+  <div align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green&show_icons=true" alt="Erin's GitHub stats">
   </div>
 </div>
