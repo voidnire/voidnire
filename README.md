@@ -16,29 +16,24 @@ const aboutMe = {
          python:  ["FastAPI", "Spring Boot", "Django", "Flask"]
       },
       databases: ["mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android"]
    },
    currentOccupation: ["computer science student, open for job opportunities"],
    challenge: "I'm studying to compete in a code marathon.",
+   contactMe: "erindante1512@gmail.com"
 };
 ```
 <br></br>
 
 
+<div>
 
-<div style='display:flex'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=shadow_green)](https://github.com/voidnire/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=radical)](https://github.com/voidnire/github-readme-stats)
-
-[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=radical)](https://github.com/voidnire/github-readme-stats)
+[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green)](https://github.com/voidnire/github-readme-stats)
 
 </div>
 
- <div align="center">
- <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=green" alt=""/>                                                    
- <h3>💬 contact me: erindante1512@gmail.com </h3>
-</div>
----
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=green" alt=""/>
