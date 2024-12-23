@@ -1,33 +1,31 @@
-### ꒰ hello world 🍄 ꒱
 
-<!--
-**voidnire/voidnire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>Erin Dante Vasconcelos ⊹ 19y</h2>
-
-<h3><b> ─ C# ⊹ Python ⊹ HTML & CSS ⊹ Javascript </b></h3>
-
-<h2>About Me 🚀</h2>
-<div  align="center"><h3>⚡ I aspire to be a Front-end/Full-Stack developer.</h3></div>
-<div  align="center"><h3>👨‍💻 Interested in studying Information Security and being a pentester.</h3></div>
-<div  align="center"><h3>🎮 My hobbies include drawing, watching movies and gaming.</h3></div>
-
-</br>
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Java, Python, CSharp, C++, C, Javascript, Typescript, HTML, CSS, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular", "Node.js", "Vue.js"],
+         css: ["Materialize", "UIKit", "Bootstrap", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Grails", "Spring", "Angular"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         python:  ["FastAPI", "Spring Boot", "Django", "Flask"]
+      },
+      databases: ["mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["computer science student, open for job opportunities"],
+   challenge: "I'm studying to compete in a code marathon.",
+};
+```
+<br></br>
 
 
-<div align="center">
+
+<div align="center" style="display:flex;">
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=dracula)](https://github.com/voidnire/github-readme-stats)
@@ -36,13 +34,10 @@ Here are some ideas to get you started:
   
   
 </div>
-
-                                                            
-
+                                                     
  <h3>💬 contact me: erindante1512@gmail.com </h3>
 
-
-
+---
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=blue" alt=""/>
