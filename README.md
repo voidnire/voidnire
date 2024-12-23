@@ -25,18 +25,13 @@ const aboutMe = {
 ```
 <br></br>
 
+<img align="left" src="https://i.pinimg.com/originals/e5/bf/83/e5bf8315d901f388203f479ef160cc5d.gif" width="400" alt="riddlers"/>
 
 <div>
-  <div align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green&show_icons=true" alt="Erin's GitHub stats">
-  </div>
 </div>
 
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=green" alt=""/>
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e5/bf/83/e5bf8315d901f388203f479ef160cc5d.gif" width="400" alt="riddlers"/>
 </div>
