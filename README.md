@@ -26,20 +26,24 @@ const aboutMe = {
 
 
 
-<div>
+<div style='display:flex'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=radical)](https://github.com/voidnire/github-readme-stats)
 
 [![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=radical)](https://github.com/voidnire/github-readme-stats)
-  
 
 </div>
-                                                     
- <h3>💬 contact me: erindante1512@gmail.com </h3>
 
+ <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=green" alt=""/>                                                    
+ <h3>💬 contact me: erindante1512@gmail.com </h3>
+</div>
 ---
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=blue" alt=""/>
-  <img src="https://i.pinimg.com/originals/68/dc/2e/68dc2e604b08ef695cbec6e93d41ba53.gif" width="400" alt="serial experiments lain"/>
+ <img src="https://komarev.com/ghpvc/?username=voidnire&style=flat-square&color=green" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e5/bf/83/e5bf8315d901f388203f479ef160cc5d.gif" width="400" alt="riddlers"/>
 </div>
