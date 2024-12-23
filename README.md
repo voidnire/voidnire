@@ -28,11 +28,10 @@ const aboutMe = {
 
 <div>
    <div style="display: inline-block;">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=shadow_green)](https://github.com/voidnire/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidnire&layout=compact&theme=shadow_green&show_icons=true)
    </div>
    <div style="display: inline-block;">
-   ![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green)](https://github.com/voidnire/github-readme-stats)
-   
+   ![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidnire&theme=shadow_green&show_icons=true)
    </div>
 </div>
 
