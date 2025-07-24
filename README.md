@@ -30,10 +30,6 @@ i'm currently doing research on variety sudoku puzzles, and i like to work on ra
   <img src="https://streak-stats.demolab.com?user=voidnire&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=voidnire&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 #
 
 ![spotify stats](https://spotify-recently-played-readme.vercel.app/api?user=22mjcdjjajerkrauseypuvxny)
