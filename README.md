@@ -4,9 +4,6 @@
 <p align="left">
 i'm erin (he/him). i'm a <b>fullstack dev</b>, <b>ux/ui designer</b>, and a <b>computer science student</b>. 🖱
 </p>
-<p align="left">
-i'm currently doing research on variety sudoku puzzles, and i like to work on random projects in my free time!
-</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/erin.vasconcelos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erin.vasconcelos" height="30" width="40" /></a>
